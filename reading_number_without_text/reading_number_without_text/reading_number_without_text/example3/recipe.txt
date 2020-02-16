@@ -1,0 +1,5 @@
+batches  3
+item            quantity    cost(each)
+onions           3               0.35
+tomatos          7               0.52
+hamburger        4               3.85

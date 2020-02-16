@@ -1,0 +1,5 @@
+3 maggie
+10 bart
+10 lisa
+45 marge
+40 homer	 

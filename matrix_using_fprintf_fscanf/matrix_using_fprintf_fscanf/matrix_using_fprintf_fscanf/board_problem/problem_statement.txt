@@ -1,0 +1,18 @@
+Write a script called board_problem_reader.m.
+The script should prompt the user for the filename
+of the file written by board_problem.m, the
+script we analyzed in class.  The script should
+open the file and read its contents into variable A,
+then write A to the screen using fprintf.  The matrix
+should be stored and displayed on the screen using the same
+numbers of rows and columns as it has on disk.
+
+Here's a screen shot of my program:
+
+>> board_problem_reader
+Input filename : outputfile.txt
+9 3 6
+1 6 5
+0 1 8
+2 0 5
+>> 

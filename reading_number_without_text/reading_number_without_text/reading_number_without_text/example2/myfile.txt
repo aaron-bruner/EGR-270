@@ -1,0 +1,3 @@
+3 5  fred
+2 7  barney
+1 5 ethel

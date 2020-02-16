@@ -1,0 +1,25 @@
+3  cowboys
+12 redskins
+596 eagles
+14 chargers
+1  saints
+9  bears
+10 oilers
+-7153 cardinals
+5  49ers
+
+Problem Statement
+In the file above, rankings are given for various football teams.
+Write a script to ask the user for the filename.  Then read
+the ranking for the Eagles and the Cardinals from the file, writing
+their ranking into a new file.  Prompt the user for the filename
+of this new file.  The new file should look like this:
+
+Eagles:  596
+Cardinals:  -7153
+
+I will test your program using a file having secret numbers.  However,
+you may assume that the teams are given in the same order as above.  This
+means that the Eagles are guaranteed to be on line 3 and the Cardinals
+are guaranteed to be on line 8.
+
