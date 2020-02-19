@@ -1,0 +1,4 @@
+ Eagles    4.0
+Birdies    1.0
+ Bogeys   -1.0
+Doubles   -2.0

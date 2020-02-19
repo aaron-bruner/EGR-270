@@ -1,0 +1,5 @@
+Golfer   Eagles   Birdies   Pars     Bogeys   Doubles      Points
+A          1         2       10        1         1           3
+B          2         3       11        0         1           9
+C          1         4       10        1         10        -13
+D          1         3       10       12         0          -5
