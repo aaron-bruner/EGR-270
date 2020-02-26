@@ -17,3 +17,14 @@ for i=1:length(a)
       fprintf('%2d %2d %2d\n',a(i),b(i),c(i))
     end
 end
+
+%for a=1:50
+%    for b=a:50
+%        for c=max([a b]):50
+%            if a^2+b^2==c^2
+%                fprintf('%2i %2i %2i\n', a,b,c);
+%                counter = counter +1;
+%            end
+%        end
+%    end
+%end
